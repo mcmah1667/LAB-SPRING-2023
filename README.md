@@ -12,9 +12,9 @@
 | ---------------  | ---------------- | ---------------- | ------------- |
 |   Tuesday, Jan 24 | Organizational meeting        |        |            |
 |   Tuesday, Jan 31|       |        |            |
-|   Tuesday, Feb 7|    Alexa   |        |            |
-|   Tuesday, Feb 14|   Kyle    |        |            |
-|   Tuesday, Feb 21|   Anirban    |        |            |
+|   Tuesday, Feb 7|    Alexa   |   PRS:     |            |
+|   Tuesday, Feb 14|   Kyle    |    PRS:    |            |
+|   Tuesday, Feb 21|   Anirban    |   PRS:     |            |
 |   Tuesday, Feb 28|       |        |            |
 |   Tuesday, March 7|       |        |            |
 |   Tuesday, March 14|       |        |            |
