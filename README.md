@@ -11,7 +11,7 @@
 | Date             | Presenter(s)     |  Topic(s)        |  Materials    |
 | ---------------  | ---------------- | ---------------- | ------------- |
 |   Tuesday, Jan 24 | Organizational meeting        |        |            |
-|   Tuesday, Jan 31|       |        |            |
+|   Tuesday, Jan 31|   Gustavo    |    Overview of HPCC resources, focus on UKBB    |            |
 |   Tuesday, Feb 7|    Alexa   |   PRS:     |            |
 |   Tuesday, Feb 14|   Kyle    |    PRS:    |            |
 |   Tuesday, Feb 21|   Anirban    |   PRS:     |            |
