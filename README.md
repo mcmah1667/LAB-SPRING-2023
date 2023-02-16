@@ -20,8 +20,8 @@
 |   Tuesday, March 14|       |        |            |
 |   Tuesday, March 28|   Cody    |        |            |
 |   Tuesday, April 4|       |        |            |
-|   Tuesday, April 11|       |        |            |
-|   Tuesday, April 18|       |        |            |
+|   Tuesday, April 11| Guanqi  |        |            |
+|   Tuesday, April 18|   |       |            |
 |   Tuesday, April 25|       |        |            |
 |   Tuesday, May 1|       |        |            |
 |   Tuesday, Mayu 8|       |        |            |
