@@ -16,15 +16,15 @@
 |   Tuesday, Feb 14|   NO MEETING  |     |            |
 |   Tuesday, Feb 21|   Kyle     |   PRS: PRS Cross-Popultion prediction accuracy. Initial results from the SOL Cohort    |      [SOL Design](https://pubmed.ncbi.nlm.nih.gov/20609343/)      |
 |   Tuesday, Feb 28|  Anirban      |  PRS:       |            |
-|   Tuesday, March 7|       |        |            |
-|   Tuesday, March 14|       |        |            |
+|   Tuesday, March 7| Spring break      |        |            |
+|   Tuesday, March 14| Elizabeth      |        |            |
 |   Tuesday, March 28|   Cody    |        |            |
 |   Tuesday, April 4|       |        |            |
 |   Tuesday, April 11| Guanqi  |        |            |
 |   Tuesday, April 18|   |       |            |
 |   Tuesday, April 25|       |        |            |
 |   Tuesday, May 1|       |        |            |
-|   Tuesday, Mayu 8|       |        |            |
+|   Tuesday, May 8|       |        |            |
 
 
 Spredsheet with jornals [link](https://docs.google.com/spreadsheets/d/1BdIHOwurcbcAjLFGdKaOBZyICcVf2Zmis1Mq-rKuQ_Q/edit#gid=0)
